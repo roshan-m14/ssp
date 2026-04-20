@@ -39,3 +39,17 @@ width="300" />
 <h3>OUTPUT 2:</h3>
 <img src="images/image-6.png"
 width="300" />
+
+<h1>LAB 3: DATABASE SETUP AND READ/WRITE</h1>
+
+**Personal Feedback: Lab 3–DATABASE SETUP AND READ/WRITE**
+
+ In this lab, I learned how to set up and interact with a database in a server-side programming environment. I gained hands-on experience in creating database connections, as well as performing basic read and write operations such as inserting, retrieving, and updating data. This helped me understand how server-side applications communicate with databases and manage data efficiently. Overall, the lab improved my practical skills in handling backend data operations and strengthened my understanding of database integration in web development.
+
+<h3>OUTPUT 1</H3>
+<img src="images/image-7.png"
+width="300" />
+
+<h3>OUTPUT 2</H3>
+<img src="images/image-8.png"
+width="300" />
