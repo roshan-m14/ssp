@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/roshan-m14/ssp#readme",
   "dependencies": {
+    "ejs": "^5.0.2",
     "express": "^5.2.1"
   }
 }
