@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Edit Student</title>
+</head>
+<body>
+<h1>Edit Student Record</h1>
+<form action="/update/<%= student.id %>" method="POST">
+<label>Name:</label>
+<input type="text" name="studentName" value="<%= student.name %>" required>
+<br><br>
+<label>Email:</label>
+<input type="email" name="studentEmail" value="<%= student.email %>" required>
+<br><br>
+<label>Phone Number:</label>
+<input type="tel" name="studentPhone" value="<%= student.contact_number %>" required>
+<br><br>
+<label>Address:</label>
+<input type="text" name="studentAddress" value="<%= student.address %>" required>
+<br><br>
+<button type="submit">Update Record</button>
+<a href="/">Cancel</a>
+</form>
+</body>
+</html>

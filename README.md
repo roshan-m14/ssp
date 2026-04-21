@@ -53,3 +53,15 @@ width="300" />
 <h3>OUTPUT 2</H3>
 <img src="images/image-8.png"
 width="300" />
+
+<h1>LAB 4: DATABASE SETUP AND UPDATE/DELETE</h1>
+
+**Personal Feedback: LAB 4: DATABASE SETUP AND UPDATE/DELETE**
+
+This lab provided a good introduction to setting up a database and performing update and delete operations. I learned how to modify existing records and remove unnecessary data, which are important skills in database management. The hands-on exercises helped me better understand how these commands work in real situations. Although some parts were a bit challenging at first, the lab overall improved my confidence and practical knowledge. It was a useful and engaging learning experience.
+
+
+<h3>OUTPUT 1</H3>
+<img src="images/image-9.png"
+width="300" />
+

@@ -23,6 +23,12 @@ if (err && !err.message.includes('duplicate column name')) {
 console.error('Error adding column:', err.message); 
 } 
 }); 
+// Add address column if it doesn't exist 
+db.run(`ALTER TABLE students ADD COLUMN address TEXT`, (err) => { 
+if (err && !err.message.includes('duplicate column name')) { 
+console.error('Error adding column:', err.message); 
+} 
+}); 
 } 
 }); 
 module.exports = db;
