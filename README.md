@@ -65,3 +65,32 @@ This lab provided a good introduction to setting up a database and performing up
 <img src="images/image-9.png"
 width="300" />
 
+<h1>Lab 5: RBAC and Sessions</h1>
+
+**Persinal Feedback: LAB 5: RBAC and Sessions**
+
+In this lab, I learned about Role-Based Access Control (RBAC) and how it is used to manage user permissions based on roles. I understood how different roles, such as admin and regular user, are assigned specific access rights to ensure proper security and organization within a system.
+
+I also learned how sessions work in web applications. Sessions help maintain user state after login, allowing the system to remember user information across different pages. I gained practical experience in implementing session handling, including creating, maintaining, and destroying sessions securely.
+
+Overall, this lab helped me understand the importance of controlling access and managing user authentication. It improved my knowledge of web security and gave me hands-on experience in applying RBAC and session management in real-world scenarios.
+
+<h3>OUTPUT 1</H3>
+<img src="images/image-10.png"
+width="300" />
+
+<h3>OUTPUT 2</H3>
+<img src="images/image-11.png"
+width="300" />
+
+<h3>OUTPUT 3</H3>
+<img src="images/image-12.png"
+width="300" />
+
+<h3>OUTPUT 4</H3>
+<img src="images/image-13.png"
+width="300" />
+
+<h3>OUTPUT 5</H3>
+<img src="images/image-14.png"
+width="300" />
